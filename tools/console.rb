@@ -52,23 +52,29 @@ end
 #bakery test
 
 #lyft test
-hao = Passenger.new("hao")
-gina = Passenger.new("gina")
-gerry = Passenger.new("gerry")
-tom = Passenger.new("tom")
-driver1 = Driver.new("drive1")
-driver2 = Driver.new("driver2")
-driver3 = Driver.new("driver3")
-driver4 = Driver.new("driver4")
-Ride.new(hao, driver1, 100)
-Ride.new(gina, driver1, 200)
-Ride.new(tom, driver1, 50)
-Ride.new(gerry, driver1, 120)
-Ride.new(hao, driver2, 250)
-Ride.new(hao, driver2, 300)
-Ride.new(gina, driver3, 50)
-Ride.new(hao, driver3, 70)
-Ride.new(gerry, driver4, 180)
-Ride.new(hao, driver4, 220)
+# hao = Passenger.new("hao")
+# gina = Passenger.new("gina")
+# gerry = Passenger.new("gerry")
+# tom = Passenger.new("tom")
+# driver1 = Driver.new("drive1")
+# driver2 = Driver.new("driver2")
+# driver3 = Driver.new("driver3")
+# driver4 = Driver.new("driver4")
+# Ride.new(hao, driver1, 100)
+# Ride.new(gina, driver1, 200)
+# Ride.new(tom, driver1, 50)
+# Ride.new(gerry, driver1, 120)
+# Ride.new(hao, driver2, 250)
+# Ride.new(hao, driver2, 300)
+# Ride.new(gina, driver3, 50)
+# Ride.new(hao, driver3, 70)
+# Ride.new(gerry, driver4, 180)
+# Ride.new(hao, driver4, 220)
 #lyft test
+
+#crowdfunding
+
+#crowdfunding
+
+
 Pry.start

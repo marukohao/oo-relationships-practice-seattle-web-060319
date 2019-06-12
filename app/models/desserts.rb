@@ -9,7 +9,7 @@ class Desserts
 
 def add_ingredient(ingredient)
   @ingredient << ingredient
-  # ingredient.dessert = self
+  ingredient.dessert = self
 end
 
 def ingredients
